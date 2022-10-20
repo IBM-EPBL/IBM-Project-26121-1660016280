@@ -4,7 +4,9 @@ Real-Time Communication System Powered by AI for Specially Abled
 
 
  team members:
-    1.Mohamed Iburahim.P
-    2.Nandha Kishore.K.P
-    3.Mohith.s
-    4.Nitish 
+    1.Nandha Kishore.K.P
+    2.Mohith.s
+    3.Nitish 
+team Leader:
+   p.Mohamed Iburahim
+    
