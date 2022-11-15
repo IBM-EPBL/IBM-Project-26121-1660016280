@@ -1,0 +1,81 @@
+<!DOCTYPE HTML PUBLIC "-
+//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/str ict.dtd">
+
+<html>
+<head>
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+<title>Artificial intelligence : OpenKore source code documentation</title>
+
+<link rel="stylesheet" type="text/css" href="openkore.css">
+
+<!-- Fix broken PNG transparency for IE/Win5-6+ --
+>
+
+<!--[if gte IE 5.5000]>
+
+<script type="text/javascript" src="pngfix.js"></script>
+
+<![endif]-->
+
+
+
+<style type="text/css">
+
+<!--
+
+.example { margin: 0.3cm;
+margin-left: 0.5cm;
+
+}
+
+.comment {
+
+font-style: italic;
+}
+ 
+.term {
+border-bottom: 1px dotted black;
+
+}
+
+.cstr {
+color: #007700;
+
+}
+
+-->
+
+</style>
+
+</head>
+
+
+
+<body>
+
+
+
+<div id="title">OpenKore source code documentation</div>
+
+
+
+<div id="navigation">
+
+<ul>
+
+<li><a href="http://openkore.sourceforge.net/">Main website</a></li>
+
+<li><a href="index.html">Table of contents</a></li>
+
+<li><b>Artificial intelligence</b></li>
+
+</ul>
+
+</div>
+
+
+
+<div id="main">
